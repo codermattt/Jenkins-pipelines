@@ -1,4 +1,5 @@
-vprofile-CI-pipeline
+# vprofile-CI-pipeline
+
 - integrating Nexus to send and store repo, got pipeline from Nexus Artifact uploader on website
 - integrated slack for sending of notifications if build failed or not
 
